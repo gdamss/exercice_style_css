@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://aymeric-auberton.fr/img/css/bg.webp");
+}
+#p1{
+    width: 190px;
+}
+#p2{
+    width: 250px;
+}
+#p3{
+    width: 320px;
+}
+p{
+    text-align: center;
+    margin-top: 110px;
+}
